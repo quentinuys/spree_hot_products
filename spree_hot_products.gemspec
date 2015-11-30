@@ -3,11 +3,11 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_hot_products'
   s.version     = '3.0.4'
-  s.summary     = 'TODO: Add gem summary here'
-  s.description = 'TODO: Add (optional) gem description here'
+  s.summary     = 'Add Hot Products Page'
+  s.description = 'Add a hot products page based on views'
   s.required_ruby_version = '>= 2.0.0'
 
-  # s.author    = 'You'
+  s.author    = 'Quentin Langeveldt'
   # s.email     = 'you@example.com'
   # s.homepage  = 'http://www.spreecommerce.com'
 
